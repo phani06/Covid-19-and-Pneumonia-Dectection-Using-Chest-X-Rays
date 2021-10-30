@@ -11,7 +11,7 @@ The COVID-19 pandemic has wreaked havoc in the daily life of human beings and de
  https://drive.google.com/file/d/1L5iezmq3_o1nUsmw3GJ81xgqFpNKTo0J/view?usp=sharing
  
  # Accurancy plot :-
-https://user-images.githubusercontent.com/86012289/139533187-ce32206f-997c-4a4a-bace-5508f57b84b9.jpg
+![alt text](https://user-images.githubusercontent.com/86012289/139533187-ce32206f-997c-4a4a-bace-5508f57b84b9.jpg)
 
 # Conclusion
 
