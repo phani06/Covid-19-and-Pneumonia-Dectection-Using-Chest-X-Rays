@@ -14,7 +14,7 @@ The COVID-19 pandemic has wreaked havoc in the daily life of human beings and de
 ![alt text](https://user-images.githubusercontent.com/86012289/139533187-ce32206f-997c-4a4a-bace-5508f57b84b9.jpg)
 
 # EXPECTED OUTCOME
-![ALT TEXT](https://drive.google.com/file/d/12pkTOoCN2NkTOQVz07flA3xfs0cHbUU6/view?usp=sharing)
+![ALT TEXT](hhttps://github.com/phani06/Covid-19-and-Pneumonia-Dectection-Using-Chest-X-Rays/blob/main/EXPECTEDOUTPUT.png)
 
 # Conclusion
 
